@@ -1,2 +1,5 @@
-# Rise-hub
-An universal script that has some HvH functions available. Non advanced script
+# Project-Rise / Rise Hub
+Ever wanted a quick univeral script which options you need?
+Ever wanted a easy script?
+Here is Rise-Hub also known as project rise.
+Enjoy this ig
